@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users'
+let g:netrw_dirhist_2='/Volumes/cifs/03_個人用/0005_伊藤大樹'
+let g:netrw_dirhist_3='/Users/daiki.ito'
+let g:netrw_dirhist_4='/Users/daiki.ito/0005_伊藤大樹'
+let g:netrw_dirhist_5='/var/home/a-tsuboi/excite/officetool.excite.co.jp/tsubolytics'
+let g:netrw_dirhist_6='/var/home/a-tsuboi/excite/officetool.excite.co.jp/tsubolytics/vendor'
+let g:netrw_dirhist_7='/var/home/a-tsuboi/excite/officetool.excite.co.jp/tsubolytics/vendor/pear-pear.php.net'
+let g:netrw_dirhist_8='/var/home/a-tsuboi/excite/officetool.excite.co.jp/tsubolytics/vendor/pear-pear.php.net/MDB2'

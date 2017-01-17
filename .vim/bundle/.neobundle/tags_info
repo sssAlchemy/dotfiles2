@@ -1,0 +1,11 @@
+emmet-vim
+go
+neobundle.vim
+neocomplcache
+neosnippet-snippets
+neosnippet.vim
+open-browser.vim
+previm
+unite.vim
+vim-godef
+vim-markdown
